@@ -6,7 +6,7 @@ export default function SiteFooter() {
     <footer className="site-footer">
       <div className="page-shell footer-row">
         <Link href="/" className="brand-logo" aria-label="MealMate home">
-          <Image src="/assets/app-icon.png" alt="MealMate logo" width={34} height={34} />
+          <Image src="/assets/masot.png" alt="MealMate logo" width={34} height={34} priority />
         </Link>
         <nav className="footer-nav" aria-label="Footer">
           <Link href="/privacy">Privacy Policy</Link>

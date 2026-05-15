@@ -20,8 +20,9 @@ export const metadata = {
   description:
     "MealMate makes calorie and macro tracking simple, fast, and accurate with barcode scanning, nutrition label scanning, and AI-powered meal recognition.",
   icons: {
-    icon: "/assets/app-icon.png",
-    apple: "/assets/app-icon.png",
+    icon: "/assets/masot.png",
+    shortcut: "/assets/masot.png",
+    apple: "/assets/masot.png",
   },
 };
 
